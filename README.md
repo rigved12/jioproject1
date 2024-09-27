@@ -1,6 +1,6 @@
 # jioproject1
 this is a sample project for testing git/github functioning
-# Selenium
+# jio project automation testing using Selenium(java)
 
 [![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
 
