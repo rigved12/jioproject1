@@ -1,7 +1,7 @@
 # jioproject1
 this is a sample project for testing git/github functioning
 # jio project automation testing using Selenium(java)
-[lavatect technology](htttp://lavatechtechnology.com) this project is initiated by department of IT and is for the purpose of testing and education
+ this project[lavatect technology](htttp://lavatechtechnology.com) this project is initiated by department of IT and is for the purpose of testing and education
 
 
 Selenium is an umbrella project encapsulating a variety of tools and
