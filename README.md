@@ -1,12 +1,10 @@
 # jioproject1
-this is a sample project for testing git/github functioning
+
 # jio project automation testing using Selenium(java)
- this project[lavatect technology](htttp://lavatechtechnology.com) this project is initiated by department of IT and is for the purpose of testing and education
+ jioproject is develop by  [lavatect technology.](htttps://lavatechtechnology.com). this project is initiated by department of IT and is for the purpose of testing and education
 
 
-Selenium is an umbrella project encapsulating a variety of tools and
-libraries enabling web browser automation. Selenium specifically
-provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/)
+
 — a platform and language-neutral coding interface compatible with all
 major web browsers.
 
