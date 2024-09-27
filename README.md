@@ -26,9 +26,12 @@ get stuck, there are several ways to [Get Help](https://www.selenium.dev/support
 * yash
 
 
-## Installing
+## pre-requisite
 
-These are the requirements to create your own local dev environment to contribute to Selenium.
+* selenium 
+* java
+* core java
+* java framework
 
 ### All Platforms
 * [Bazelisk](https://github.com/bazelbuild/bazelisk), a Bazel wrapper that automatically downloads
